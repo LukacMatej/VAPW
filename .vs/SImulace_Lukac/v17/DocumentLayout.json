@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mates\\Desktop\\TUL\\VAPW\\SImulace_Lukac\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A33A340-05BC-405B-B401-B8CCBFFD4D2A}|Knihovna_Lukac\\Knihovna_Lukac.csproj|c:\\users\\mates\\desktop\\tul\\vapw\\simulace_lukac\\knihovna_lukac\\lukac_mycka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A33A340-05BC-405B-B401-B8CCBFFD4D2A}|Knihovna_Lukac\\Knihovna_Lukac.csproj|solutionrelative:knihovna_lukac\\lukac_mycka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6784F2-4A15-46BA-B16A-DF0D63A3E648}|SImulace_Lukac\\SImulace_Lukac.csproj|c:\\users\\mates\\desktop\\tul\\vapw\\simulace_lukac\\simulace_lukac\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6784F2-4A15-46BA-B16A-DF0D63A3E648}|SImulace_Lukac\\SImulace_Lukac.csproj|solutionrelative:simulace_lukac\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6784F2-4A15-46BA-B16A-DF0D63A3E648}|SImulace_Lukac\\SImulace_Lukac.csproj|c:\\users\\mates\\desktop\\tul\\vapw\\simulace_lukac\\simulace_lukac\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B6784F2-4A15-46BA-B16A-DF0D63A3E648}|SImulace_Lukac\\SImulace_Lukac.csproj|solutionrelative:simulace_lukac\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B6784F2-4A15-46BA-B16A-DF0D63A3E648}|SImulace_Lukac\\SImulace_Lukac.csproj|c:\\users\\mates\\desktop\\tul\\vapw\\simulace_lukac\\simulace_lukac\\settingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B6784F2-4A15-46BA-B16A-DF0D63A3E648}|SImulace_Lukac\\SImulace_Lukac.csproj|solutionrelative:simulace_lukac\\settingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 260,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lukac_mycka.cs",
+              "DocumentMoniker": "C:\\Users\\mates\\Desktop\\TUL\\VAPW\\SImulace_Lukac\\Knihovna_Lukac\\Lukac_mycka.cs",
+              "RelativeDocumentMoniker": "Knihovna_Lukac\\Lukac_mycka.cs",
+              "ToolTip": "C:\\Users\\mates\\Desktop\\TUL\\VAPW\\SImulace_Lukac\\Knihovna_Lukac\\Lukac_mycka.cs",
+              "RelativeToolTip": "Knihovna_Lukac\\Lukac_mycka.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:48:37.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SettingForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mates\\Desktop\\TUL\\VAPW\\SImulace_Lukac\\SImulace_Lukac\\SettingForm.Designer.cs",
+              "RelativeDocumentMoniker": "SImulace_Lukac\\SettingForm.Designer.cs",
+              "ToolTip": "C:\\Users\\mates\\Desktop\\TUL\\VAPW\\SImulace_Lukac\\SImulace_Lukac\\SettingForm.Designer.cs",
+              "RelativeToolTip": "SImulace_Lukac\\SettingForm.Designer.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAowGYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:32:46.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mates\\Desktop\\TUL\\VAPW\\SImulace_Lukac\\SImulace_Lukac\\Form1.cs",
+              "RelativeDocumentMoniker": "SImulace_Lukac\\Form1.cs",
+              "ToolTip": "C:\\Users\\mates\\Desktop\\TUL\\VAPW\\SImulace_Lukac\\SImulace_Lukac\\Form1.cs",
+              "RelativeToolTip": "SImulace_Lukac\\Form1.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAQwA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:24:46.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [N\u00E1vrh]",
+              "DocumentMoniker": "C:\\Users\\mates\\Desktop\\TUL\\VAPW\\SImulace_Lukac\\SImulace_Lukac\\Form1.cs",
+              "RelativeDocumentMoniker": "SImulace_Lukac\\Form1.cs",
+              "ToolTip": "C:\\Users\\mates\\Desktop\\TUL\\VAPW\\SImulace_Lukac\\SImulace_Lukac\\Form1.cs [N\u00E1vrh]",
+              "RelativeToolTip": "SImulace_Lukac\\Form1.cs [N\u00E1vrh]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:24:14.131Z",
+              "EditorCaption": " [N\u00E1vrh]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

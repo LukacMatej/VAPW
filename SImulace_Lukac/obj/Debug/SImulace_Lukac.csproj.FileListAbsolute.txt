@@ -1,0 +1,14 @@
+C:\Users\mates\Desktop\TUL\VAPW\SImulace_Lukac\SImulace_Lukac\obj\Debug\SImulace_Lukac.csproj.AssemblyReference.cache
+C:\Users\mates\Desktop\TUL\VAPW\SImulace_Lukac\SImulace_Lukac\obj\Debug\SImulace_Lukac.Form1.resources
+C:\Users\mates\Desktop\TUL\VAPW\SImulace_Lukac\SImulace_Lukac\obj\Debug\SImulace_Lukac.Properties.Resources.resources
+C:\Users\mates\Desktop\TUL\VAPW\SImulace_Lukac\SImulace_Lukac\obj\Debug\SImulace_Lukac.csproj.GenerateResource.cache
+C:\Users\mates\Desktop\TUL\VAPW\SImulace_Lukac\SImulace_Lukac\obj\Debug\SImulace_Lukac.csproj.CoreCompileInputs.cache
+C:\Users\mates\Desktop\TUL\VAPW\SImulace_Lukac\SImulace_Lukac\bin\Debug\SImulace_Lukac.exe.config
+C:\Users\mates\Desktop\TUL\VAPW\SImulace_Lukac\SImulace_Lukac\bin\Debug\SImulace_Lukac.exe
+C:\Users\mates\Desktop\TUL\VAPW\SImulace_Lukac\SImulace_Lukac\bin\Debug\SImulace_Lukac.pdb
+C:\Users\mates\Desktop\TUL\VAPW\SImulace_Lukac\SImulace_Lukac\obj\Debug\SImulace.7720DD11.Up2Date
+C:\Users\mates\Desktop\TUL\VAPW\SImulace_Lukac\SImulace_Lukac\obj\Debug\SImulace_Lukac.exe
+C:\Users\mates\Desktop\TUL\VAPW\SImulace_Lukac\SImulace_Lukac\obj\Debug\SImulace_Lukac.pdb
+C:\Users\mates\Desktop\TUL\VAPW\SImulace_Lukac\SImulace_Lukac\bin\Debug\Knihovna_Lukac.dll
+C:\Users\mates\Desktop\TUL\VAPW\SImulace_Lukac\SImulace_Lukac\obj\Debug\SImulace_Lukac.SettingForm.resources
+C:\Users\mates\Desktop\TUL\VAPW\SImulace_Lukac\SImulace_Lukac\bin\Debug\Knihovna_Lukac.pdb

@@ -1,0 +1,11 @@
+C:\Users\mates\Desktop\TUL\VAPW\SImulace_Lukac\Knihovna_Lukac\bin\Debug\net8.0\Knihovna_Lukac.deps.json
+C:\Users\mates\Desktop\TUL\VAPW\SImulace_Lukac\Knihovna_Lukac\bin\Debug\net8.0\Knihovna_Lukac.dll
+C:\Users\mates\Desktop\TUL\VAPW\SImulace_Lukac\Knihovna_Lukac\bin\Debug\net8.0\Knihovna_Lukac.pdb
+C:\Users\mates\Desktop\TUL\VAPW\SImulace_Lukac\Knihovna_Lukac\obj\Debug\net8.0\Knihovna_Lukac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mates\Desktop\TUL\VAPW\SImulace_Lukac\Knihovna_Lukac\obj\Debug\net8.0\Knihovna_Lukac.AssemblyInfoInputs.cache
+C:\Users\mates\Desktop\TUL\VAPW\SImulace_Lukac\Knihovna_Lukac\obj\Debug\net8.0\Knihovna_Lukac.AssemblyInfo.cs
+C:\Users\mates\Desktop\TUL\VAPW\SImulace_Lukac\Knihovna_Lukac\obj\Debug\net8.0\Knihovna_Lukac.csproj.CoreCompileInputs.cache
+C:\Users\mates\Desktop\TUL\VAPW\SImulace_Lukac\Knihovna_Lukac\obj\Debug\net8.0\Knihovna_Lukac.dll
+C:\Users\mates\Desktop\TUL\VAPW\SImulace_Lukac\Knihovna_Lukac\obj\Debug\net8.0\refint\Knihovna_Lukac.dll
+C:\Users\mates\Desktop\TUL\VAPW\SImulace_Lukac\Knihovna_Lukac\obj\Debug\net8.0\Knihovna_Lukac.pdb
+C:\Users\mates\Desktop\TUL\VAPW\SImulace_Lukac\Knihovna_Lukac\obj\Debug\net8.0\ref\Knihovna_Lukac.dll
