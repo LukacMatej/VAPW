@@ -1,0 +1,12 @@
+C:\Users\Matěj Lukáč\Desktop\school\VAPW\Lukac_simulace\Lukac_simulace\bin\Debug\net8.0\Lukac_simulace.deps.json
+C:\Users\Matěj Lukáč\Desktop\school\VAPW\Lukac_simulace\Lukac_simulace\bin\Debug\net8.0\Lukac_simulace.dll
+C:\Users\Matěj Lukáč\Desktop\school\VAPW\Lukac_simulace\Lukac_simulace\bin\Debug\net8.0\Lukac_simulace.pdb
+C:\Users\Matěj Lukáč\Desktop\school\VAPW\Lukac_simulace\Lukac_simulace\obj\Debug\net8.0\Lukac_simulace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matěj Lukáč\Desktop\school\VAPW\Lukac_simulace\Lukac_simulace\obj\Debug\net8.0\Lukac_simulace.AssemblyInfoInputs.cache
+C:\Users\Matěj Lukáč\Desktop\school\VAPW\Lukac_simulace\Lukac_simulace\obj\Debug\net8.0\Lukac_simulace.AssemblyInfo.cs
+C:\Users\Matěj Lukáč\Desktop\school\VAPW\Lukac_simulace\Lukac_simulace\obj\Debug\net8.0\Lukac_simulace.csproj.CoreCompileInputs.cache
+C:\Users\Matěj Lukáč\Desktop\school\VAPW\Lukac_simulace\Lukac_simulace\obj\Debug\net8.0\Lukac_simulace.sourcelink.json
+C:\Users\Matěj Lukáč\Desktop\school\VAPW\Lukac_simulace\Lukac_simulace\obj\Debug\net8.0\Lukac_simulace.dll
+C:\Users\Matěj Lukáč\Desktop\school\VAPW\Lukac_simulace\Lukac_simulace\obj\Debug\net8.0\refint\Lukac_simulace.dll
+C:\Users\Matěj Lukáč\Desktop\school\VAPW\Lukac_simulace\Lukac_simulace\obj\Debug\net8.0\Lukac_simulace.pdb
+C:\Users\Matěj Lukáč\Desktop\school\VAPW\Lukac_simulace\Lukac_simulace\obj\Debug\net8.0\ref\Lukac_simulace.dll

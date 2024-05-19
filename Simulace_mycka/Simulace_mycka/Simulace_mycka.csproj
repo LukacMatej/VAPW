@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Lukac_simulace">
+      <HintPath>..\..\Lukac_simulace\Lukac_simulace\bin\Debug\net8.0\Lukac_simulace.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

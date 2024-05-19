@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\VAPW\\Simulace_mycka\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4107B1-D334-4D76-A04F-801CF41F63D4}|Simulace_mycka\\Simulace_mycka.csproj|c:\\users\\mat\u011Bj luk\u00E1\u010D\\desktop\\school\\vapw\\simulace_mycka\\simulace_mycka\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A4107B1-D334-4D76-A04F-801CF41F63D4}|Simulace_mycka\\Simulace_mycka.csproj|solutionrelative:simulace_mycka\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4107B1-D334-4D76-A04F-801CF41F63D4}|Simulace_mycka\\Simulace_mycka.csproj|c:\\users\\mat\u011Bj luk\u00E1\u010D\\desktop\\school\\vapw\\simulace_mycka\\simulace_mycka\\settingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A4107B1-D334-4D76-A04F-801CF41F63D4}|Simulace_mycka\\Simulace_mycka.csproj|solutionrelative:simulace_mycka\\settingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4107B1-D334-4D76-A04F-801CF41F63D4}|Simulace_mycka\\Simulace_mycka.csproj|c:\\users\\mat\u011Bj luk\u00E1\u010D\\desktop\\school\\vapw\\simulace_mycka\\simulace_mycka\\settingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A4107B1-D334-4D76-A04F-801CF41F63D4}|Simulace_mycka\\Simulace_mycka.csproj|solutionrelative:simulace_mycka\\settingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 260,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SettingForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\VAPW\\Simulace_mycka\\Simulace_mycka\\SettingForm.Designer.cs",
+              "RelativeDocumentMoniker": "Simulace_mycka\\SettingForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\VAPW\\Simulace_mycka\\Simulace_mycka\\SettingForm.Designer.cs",
+              "RelativeToolTip": "Simulace_mycka\\SettingForm.Designer.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAowFYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:23:46.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SettingForm.cs [N\u00E1vrh]",
+              "DocumentMoniker": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\VAPW\\Simulace_mycka\\Simulace_mycka\\SettingForm.cs",
+              "RelativeDocumentMoniker": "Simulace_mycka\\SettingForm.cs",
+              "ToolTip": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\VAPW\\Simulace_mycka\\Simulace_mycka\\SettingForm.cs [N\u00E1vrh]",
+              "RelativeToolTip": "Simulace_mycka\\SettingForm.cs [N\u00E1vrh]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:18:17.104Z",
+              "EditorCaption": " [N\u00E1vrh]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\VAPW\\Simulace_mycka\\Simulace_mycka\\Form1.cs",
+              "RelativeDocumentMoniker": "Simulace_mycka\\Form1.cs",
+              "ToolTip": "C:\\Users\\Mat\u011Bj Luk\u00E1\u010D\\Desktop\\school\\VAPW\\Simulace_mycka\\Simulace_mycka\\Form1.cs",
+              "RelativeToolTip": "Simulace_mycka\\Form1.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wBMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:13:25.558Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

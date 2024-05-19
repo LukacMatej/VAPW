@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simulace_mycka", "Simulace_mycka\Simulace_mycka.csproj", "{0A4107B1-D334-4D76-A04F-801CF41F63D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A4107B1-D334-4D76-A04F-801CF41F63D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A4107B1-D334-4D76-A04F-801CF41F63D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A4107B1-D334-4D76-A04F-801CF41F63D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A4107B1-D334-4D76-A04F-801CF41F63D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {867E59AC-D668-4683-B23D-76E7C3F91E4E}
+	EndGlobalSection
+EndGlobal
